@@ -1,4 +1,4 @@
-pycaret==2.3.10
+--pre pycaret
 streamlit-pandas-profiling
 pandas-profiling
 streamlit
